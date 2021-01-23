@@ -1,2 +1,5 @@
 # FirstDotnetSimpleApplication
-First .NET Simple Apllication, based on @gabrielfbarros DIO's course
+First .NET Simple Apllication, inspired by @gabrielfbarros DIO's course
+
+- THIS SIMPLE APPLICATION ALLOWS THE USER TO INSERT INFORMATION ABOUT GAMES AND EVALUATE IT WITH ITS OWN CRITIC AND GRADE!
+- I JUST PUSHED THE FIRST VERSION, BUT I'M STUDYING .NET AND I WILL IMPROVE IT, FOR SURE.
